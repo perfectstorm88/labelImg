@@ -1,6 +1,9 @@
 LabelImg
 ========
 
+修改label进行保存时，每次都弹出对话框询问，影响效率。改为不弹框直接保存
+------------------
+
 .. image:: https://img.shields.io/pypi/v/labelimg.svg
         :target: https://pypi.python.org/pypi/labelimg
 
